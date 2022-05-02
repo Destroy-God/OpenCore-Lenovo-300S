@@ -19,13 +19,13 @@ Trackpad: Synaptics (Gestures Working Fine)
 Discrete Graphics:Nvidia Geforce 920M(Unsupported, Even if it's Kepler architecture)
 Sleep(Can go to sleep automatically, But not manually)
 # Screenshot
-![avatar](https://cdn.reimu.net/uploads/2022/05/Screen Shot 2022_05_02 at 12.17.48.png)\
-![avatar](https://cdn.reimu.net/uploads/2022/05/Screen Shot 2022_05_02 at 12.26.53.png)\
-![avatar](https://cdn.reimu.net/uploads/2022/05/Screen Shot 2022_05_02 at 12.14.38.png)\
-![avatar](https://cdn.reimu.net/uploads/2022/05/Screen Shot 2022_05_02 at 12.22.10.png)\
-![avatar](https://cdn.reimu.net/uploads/2022/05/Screen Shot 2022_05_02 at 12.14.51.png)\
-![avatar](https://cdn.reimu.net/uploads/2022/05/Screen Shot 2022_05_02 at 12.14.38.png)\
-![avatar](https://cdn.reimu.net/uploads/2022/05/Screen Shot 2022_05_02 at 12.23.42.png)\
-![avatar](https://cdn.reimu.net/uploads/2022/05/Screen Shot 2022_05_02 at 12.21.57.png)\
-![avatar](https://cdn.reimu.net/uploads/2022/05/Screen Shot 2022_05_02 at 12.21.57.png)\
-![avatar](https://cdn.reimu.net/uploads/2022/05/Screen Shot 2022_05_02 at 12.23.00.png)
+![avatar](https://imgur.com/HrvVai3)
+![avatar](https://imgur.com/NsdD8FF)
+![avatar](https://imgur.com/cKwBOI9)
+![avatar](https://imgur.com/OGG5qHF)
+![avatar](https://imgur.com/eg8JFdk)
+![avatar](https://imgur.com/DR2a9gm)
+![avatar](https://imgur.com/Gf6uXYc)
+![avatar](https://imgur.com/uL0CGEM)
+![avatar](https://imgur.com/K5KrlFF)
+![avatar](https://imgur.com/nws66It)
