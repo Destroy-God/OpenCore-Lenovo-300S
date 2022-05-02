@@ -1,9 +1,9 @@
 # OpenCore-Lenovo-300S
 OpenCore EFI For Lenovo Ideapad 300S 14ISK
 # Note
-1.Please make SSDT yourself, here is the tutorial:
-https://dortania.github.io/Getting-Started-With-ACPI/
-2.Backlight Control Button Is Pause and ScrLk
+1.Please make SSDT yourself, here is the tutorial:\
+https://dortania.github.io/Getting-Started-With-ACPI/\
+2.Backlight Control Button Is Pause and ScrLk\
 3.CFG Lock cannot be turned off, even though I have modified the BIOS on RU.EFI
 # Information for this computer:
 macOS version: 12.3.1 Monterey\
