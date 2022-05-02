@@ -4,7 +4,7 @@ OpenCore EFI For Lenovo Ideapad 300S 14ISK
 1.Please make SSDT yourself, here is the tutorial:\
 https://dortania.github.io/Getting-Started-With-ACPI/ \
 2.Backlight Control Button Is Pause and ScrLk\
-3.CFG Lock cannot be turned off, even though I have modified the BIOS on RU.EFI
+3.CFG Lock cannot be turned off, even though I have modified the BIOS on RU.EFI\
 4.This EFI Already Did USP Mapping
 # Information for this computer:
 macOS version: 12.3.1 Monterey\
@@ -16,7 +16,7 @@ Wireless: Intel AC3165(Using AirportItlwm)\
 Audio: Realtek ALC236(Using AppleALC)\
 Trackpad: Synaptics (Gestures Working Fine)
 # Abnormal function/hardware
-Discrete Graphics:Nvidia Geforce 920M(Unsupported, Even if it's Kepler architecture)
+Discrete Graphics:Nvidia Geforce 920M(Unsupported, Even if it's Kepler architecture)\
 Sleep(Can go to sleep automatically, But not manually)
 # Screenshot
 ![avatar](https://i.imgur.com/HrvVai3.png)
